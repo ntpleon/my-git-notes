@@ -1,5 +1,3 @@
 print("Hello, World!")
-
-## new comment
-name = 'Leon'
-age = 27
+print("I love Marvel!")
+print("Dr.Doom is awesome!")
