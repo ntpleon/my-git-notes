@@ -1,6 +1,6 @@
 # Git 101: Beginner Cheat Sheet
 
-## 1. Initial Setup (ทำแค่ครั้งเดียวตอนติดตั้ง Git)
+## 1. Initial Setup
 * `git config --global user.name "Your Name"`: Set the name attached to your commits.
 * `git config --global user.email "you@example.com"`: Set the email attached to your commits.
 
